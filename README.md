@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Anna-Julia Storch, a Stanford Data Science & Education Master Student 
-- 👀 I’m interested in Startups, Design, and any solutions that solve education
-- 🌱 I’m currently learning Web Development and Machine Learning
+- 👋 Hi, I’m Anna-Julia Storch, a Stanford Data Science & Education Master Student interested in the Generative AI Space
 - 📫 How to reach me: ajstorch@stanford.edu
 
 <!---
