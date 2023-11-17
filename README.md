@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anna-Julia Storch, a Stanford Data Science & Education Master Student interested in the Generative AI Space
+- 👋 Hi, I’m Anna-Julia Storch, a Stanford Data Science MS Student interested in the Generative AI Space
 - 📫 How to reach me: ajstorch@stanford.edu
 
 <!---
