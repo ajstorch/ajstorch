@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anna-Julia Storch, a Stanford Data Science MS Student interested in the Generative AI Space
+- 👋 Working on AI agents for industrials. Neo'24
 - 📫 How to reach me: ajstorch@stanford.edu
 
 <!---
