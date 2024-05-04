@@ -1,4 +1,4 @@
-- 👋 Working on AI agents for industrials. Neo'24
+- 👋 Stanford MS Data Science; Working on AI agents for industrials. Neo'24
 - 📫 How to reach me: ajstorch@stanford.edu
 
 <!---
